@@ -1,5 +1,5 @@
 # ProyectoDeCatedra 
-![image] <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![image] (https://giphy.com/embed/qgQUggAC3Pfv687qPC)
 
 ## Integrantes: :busts_in_silhouette:
 ## Mock ups: 📱
