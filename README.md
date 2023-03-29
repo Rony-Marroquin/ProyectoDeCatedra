@@ -1,3 +1,4 @@
-# ProyectoDeCatedra `rgb(9, 105, 218)`
+# ProyectoDeCatedra 
 ## Integrantes: :busts_in_silhouette:
+## Mock ups: 📱
 
