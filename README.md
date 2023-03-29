@@ -1,4 +1,6 @@
 # ProyectoDeCatedra 
+![image] (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## Integrantes: :busts_in_silhouette:
 ## Mock ups: 📱
 ## Manual de usuario::clipboard:
