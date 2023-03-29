@@ -1,5 +1,5 @@
 # ProyectoDeCatedra 
-
+![JXA0](https://user-images.githubusercontent.com/110794204/228584110-47114aaa-7d2e-4016-b007-a7505b2abb87.gif)
 
 ## Integrantes: :busts_in_silhouette:
 ## Mock ups: 📱
