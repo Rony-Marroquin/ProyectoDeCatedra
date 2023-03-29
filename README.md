@@ -3,6 +3,11 @@
 ![giphy](https://user-images.githubusercontent.com/110794204/228585552-c8c1ad90-21ab-4e20-8759-c6e56fc48fac.gif)
 
 ## Integrantes :busts_in_silhouette: :
+- Rony Stanley Marroquin Erroa
+- Carlos Benjamín Alvarenga Vásquez
+- Edwin René Roque Bonilla
+- Carlos Eduardo Siliézar Colocho
+
 ## Documentacion:page_facing_up: :
 ## Mock ups 📱 : https://www.figma.com/file/PmiJTc52v9DQeMTyyVvbMX/FINDER?node-id=0%3A1&t=SeXyoiATSYUIUxGL-1 
 ## Manual de usuario :open_book: : https://drive.google.com/file/d/1v00fGpUQr-a1UMMXHC2TzYRLSVNkWfyO/view?usp=share_link
