@@ -1,5 +1,7 @@
 #                                                                              FINDER
 
+### Finder es una aplicacion creada con el fin de crear una mayor interaccion en los universitarios de la Universidad Don Bosco para asi poder crear mas y mejores vinculos entre las diferentes carreras de dicha universidad.
+
 ![giphy](https://user-images.githubusercontent.com/110794204/228585552-c8c1ad90-21ab-4e20-8759-c6e56fc48fac.gif)
 
 ## Integrantes :busts_in_silhouette: :
