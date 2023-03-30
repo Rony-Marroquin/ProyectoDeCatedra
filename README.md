@@ -9,7 +9,7 @@
 - Carlos Eduardo Siliézar Colocho
 
 ## Documentacion:page_facing_up: :
-## Mock ups 📱 : https://www.figma.com/file/PmiJTc52v9DQeMTyyVvbMX/FINDER?node-id=0%3A1&t=SeXyoiATSYUIUxGL-1 
+## Mock ups 📱 : https://www.figma.com/file/iFwUX4wcKSN62O4rY9MOlt/FINDER-Fino?node-id=20%3A41&t=LbJbOJ640T2nrOpx-1
 ## Manual de usuario :open_book: : https://drive.google.com/file/d/1kDXhwzwYx-pmtH-ToZIKDdjom1Vj3iB6/view?usp=sharing
 ## Trello :file_cabinet: : https://trello.com/invite/dps358/ATTI4eeeaa211fe769ebb7c456796894ac761DE15276 
 ## video del funcionamiento :movie_camera: :
